@@ -1,1 +1,2 @@
-ALTER TABLE jurusn ALTER COLUMN nama_jurusan varchar(255)
+ALTER TABLE mahasiswa
+ADD status_mahasiswa TINYINT(1);
