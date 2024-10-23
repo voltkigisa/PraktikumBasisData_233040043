@@ -14,7 +14,7 @@ no_hp int,
 
 CREATE TABLE mahasiswa (
 id int primary key,
-npm Char(9),
+nip Char(9),
 nama varchar(255),
 tanggal_lahir date,
 alamat varchar(255),

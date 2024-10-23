@@ -1,4 +1,4 @@
-INSERT INTO Dosen_wali (id, npm, nama, tanggal_lahir, alamat, no_hp)
+INSERT INTO Dosen_wali (id, nip, nama, tanggal_lahir, alamat, no_hp)
 VALUES
 (1, '123456789', 'Dosen A', '1980-01-15', 'Jl. A No. 1', 628123456789),
 (2, '987654321', 'Dosen B', '1975-03-22', 'Jl. B No. 2', 628987654321),
